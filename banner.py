@@ -1,3 +1,4 @@
+import os, sys
 os.system("clear")
 banner="""\033[1;31m""""""
 
